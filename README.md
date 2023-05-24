@@ -1,2 +1,3 @@
-# ADS_ESTACIO_DE_SA_Python_em_outros_Paradigmas
+## Análise e Desenvolvimento de Sistemas - Estácio de Sá
+# Python em outros Paradigmas
  
