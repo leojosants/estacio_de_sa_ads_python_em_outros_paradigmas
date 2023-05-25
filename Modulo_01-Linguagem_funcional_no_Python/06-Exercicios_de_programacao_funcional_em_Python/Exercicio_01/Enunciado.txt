@@ -1,0 +1,6 @@
+
+Considere a lista abaixo:
+
+    veiculos = ['aviao', 'carro', 'navio', 'onibus']
+
+Implementar uma solução que através de programação funcional para transformar todos os nomes em maiúsculos.
