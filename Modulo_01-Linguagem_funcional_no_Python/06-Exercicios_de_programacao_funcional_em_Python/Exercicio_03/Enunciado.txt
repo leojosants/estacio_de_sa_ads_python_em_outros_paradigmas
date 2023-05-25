@@ -1,0 +1,8 @@
+
+Considere as listas abaixo:
+
+    lista_numeros = [9.56783, 7.57568, 3.00914, 6.2321]
+
+    lista_precisao = [2, 3, 3, 3]
+
+Implementar uma solução através de programação funcional para arredondar os valores da "lista_numeros" na mesma ordem da "lista_precisao"

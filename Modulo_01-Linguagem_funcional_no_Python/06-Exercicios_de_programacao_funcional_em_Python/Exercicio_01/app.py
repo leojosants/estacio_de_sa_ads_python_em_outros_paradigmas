@@ -1,9 +1,18 @@
-def transforma_em_maiusculo(lista):
-    for palavras in lista:
-        print(palavras.upper())
-
-
 veiculos = ['aviao', 'carro', 'navio', 'onibus']
-nova_lista = veiculos
 
-transforma_em_maiusculo(nova_lista)
+
+def transforma_em_maiusculo(lista):
+    return lista.upper()
+
+
+def main():
+
+    # Transformar em uma lista, pois o map gera um objeto
+    nova_lista = list(map(transforma_em_maiusculo, veiculos))
+
+    print(f"\nLista original: {veiculos}")
+    print(f"Nova lista: {nova_lista}")
+
+
+if __name__ == "__main__":
+    main()
