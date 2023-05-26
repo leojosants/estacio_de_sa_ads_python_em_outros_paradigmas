@@ -3,9 +3,9 @@ from flask import Flask
 app = Flask(__name__)
 
 
-@app.route('/')
+@app.route('/ola')
 def ola_mundo():
-    return "Olá, mundo!"
+    return "Olá, mundo."
 
 
 if __name__ == '__main__':
