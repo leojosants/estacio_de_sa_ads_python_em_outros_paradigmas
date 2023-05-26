@@ -1,0 +1,8 @@
+
+Implementar uma solução em Python, através do uso de Thread, que faça:
+
+    - Inicie a execução de uma Thread
+
+    - Coloque a thread para esperar 2 segundo
+    
+    - Informe o início e o final da execução da thread

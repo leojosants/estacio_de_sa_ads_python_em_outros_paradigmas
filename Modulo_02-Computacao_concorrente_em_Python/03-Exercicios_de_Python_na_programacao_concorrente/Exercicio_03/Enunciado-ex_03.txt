@@ -1,0 +1,12 @@
+
+Implementar uma solução em Python, através do uso de Thread, que faça:
+
+    - Inicie a execução de duas Threads;
+
+    - A primeira Thread deve calcular o cubo  de um número;
+
+    - A segunda Thread deve calcularo quadrado de um número;
+
+    - Coloque a primeira e a segunda threads para esperar, respectivamente, 3 e 2 segundos;
+
+    - Informe a ordem da execução das threads.

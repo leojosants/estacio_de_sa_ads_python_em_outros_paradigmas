@@ -1,0 +1,8 @@
+
+Implementar uma solução em Python, através do uso de Thread, que faça:
+
+    - Inicie a execução de duas Threads;
+
+    - Coloque a primeira e a segunda threads para esperar, respectivaente, 3 e 2 segundos;
+
+    - Informe a ordem de execução das threads;
