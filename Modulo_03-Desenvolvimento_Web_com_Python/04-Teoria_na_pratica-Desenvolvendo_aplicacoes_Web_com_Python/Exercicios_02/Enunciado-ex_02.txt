@@ -1,0 +1,8 @@
+
+Implementar uma solução em Python com Flask que faça:
+
+    - Exiba a mensagem: "Olá, programadores" no endereço raiz de uma página web e apareça o link "/user/usuario".
+
+    - Exiba a mensagem: "Olá, Usuário!" no endereço "user/" e exiba a mensagem "Altere o endereço do browser e rearregue a página".
+
+    - Exiba a mensagem: "Olá, nome_usuário!" no endereço "user/nome_do_usuario" de uma página web

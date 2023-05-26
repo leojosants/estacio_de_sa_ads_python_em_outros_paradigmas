@@ -1,0 +1,8 @@
+
+Implementar uma solução em Python com Flask que faça:
+
+    - Exiba a mensagem: "Página principal" no endereço raiz de uma página web.
+
+    - Exiba a mensagem: "Olá mundo!" no endereço "ola/" de uma página web.
+
+    - Exiba a mensagem: "Olá,usuário!" no endereço "ola/nome_do_usuario" de uma página web
