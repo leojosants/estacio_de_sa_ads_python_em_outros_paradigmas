@@ -1,0 +1,2 @@
+
+Implementar uma solução em Python para estudar o comportamento de uma série temporal com Regressão Linear.

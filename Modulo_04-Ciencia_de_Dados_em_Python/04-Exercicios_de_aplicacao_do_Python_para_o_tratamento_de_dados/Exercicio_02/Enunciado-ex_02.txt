@@ -1,0 +1,4 @@
+
+Carregar dados da base load_digts.
+
+Informar a quantidade de dados.
