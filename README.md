@@ -1,2 +1,2 @@
-## Python em outros Paradigmas
+## Python em outros Paradigmas.
  
